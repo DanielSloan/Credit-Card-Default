@@ -1,4 +1,4 @@
-# Crefit-Card-Default
+# Credit-Card-Default
 My first ever data analysis project using supervised and unsupervised methods
 K-Prototype Clustering and Logistic Regression was implemented
 The aim was to predict the probability of the non-defaulters becoming defaulters
